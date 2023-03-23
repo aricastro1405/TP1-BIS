@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TP1BIS-Castro y Vilamowski/1.0.0": {
+        "runtime": {
+          "TP1BIS-Castro y Vilamowski.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP1BIS-Castro y Vilamowski/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

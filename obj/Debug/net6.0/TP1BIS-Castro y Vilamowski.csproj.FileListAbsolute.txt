@@ -1,0 +1,15 @@
+Z:\Programacion2023\TP1BIS-Castro y Vilamowski\bin\Debug\net6.0\TP1BIS-Castro y Vilamowski.exe
+Z:\Programacion2023\TP1BIS-Castro y Vilamowski\bin\Debug\net6.0\TP1BIS-Castro y Vilamowski.deps.json
+Z:\Programacion2023\TP1BIS-Castro y Vilamowski\bin\Debug\net6.0\TP1BIS-Castro y Vilamowski.runtimeconfig.json
+Z:\Programacion2023\TP1BIS-Castro y Vilamowski\bin\Debug\net6.0\TP1BIS-Castro y Vilamowski.dll
+Z:\Programacion2023\TP1BIS-Castro y Vilamowski\bin\Debug\net6.0\TP1BIS-Castro y Vilamowski.pdb
+Z:\Programacion2023\TP1BIS-Castro y Vilamowski\obj\Debug\net6.0\TP1BIS-Castro y Vilamowski.csproj.AssemblyReference.cache
+Z:\Programacion2023\TP1BIS-Castro y Vilamowski\obj\Debug\net6.0\TP1BIS-Castro y Vilamowski.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Programacion2023\TP1BIS-Castro y Vilamowski\obj\Debug\net6.0\TP1BIS-Castro y Vilamowski.AssemblyInfoInputs.cache
+Z:\Programacion2023\TP1BIS-Castro y Vilamowski\obj\Debug\net6.0\TP1BIS-Castro y Vilamowski.AssemblyInfo.cs
+Z:\Programacion2023\TP1BIS-Castro y Vilamowski\obj\Debug\net6.0\TP1BIS-Castro y Vilamowski.csproj.CoreCompileInputs.cache
+Z:\Programacion2023\TP1BIS-Castro y Vilamowski\obj\Debug\net6.0\TP1BIS-Castro y Vilamowski.dll
+Z:\Programacion2023\TP1BIS-Castro y Vilamowski\obj\Debug\net6.0\refint\TP1BIS-Castro y Vilamowski.dll
+Z:\Programacion2023\TP1BIS-Castro y Vilamowski\obj\Debug\net6.0\TP1BIS-Castro y Vilamowski.pdb
+Z:\Programacion2023\TP1BIS-Castro y Vilamowski\obj\Debug\net6.0\TP1BIS-Castro y Vilamowski.genruntimeconfig.cache
+Z:\Programacion2023\TP1BIS-Castro y Vilamowski\obj\Debug\net6.0\ref\TP1BIS-Castro y Vilamowski.dll
